@@ -61,7 +61,6 @@ Feel free to submit issues or pull requests to improve the project.
 
 ### 代码结构
 - `main.rs`：包含主程序逻辑，使用 `zip` crate 处理 ZIP 文件解压。
-- `.gitignore`：忽略 `1/` 文件夹和 `1.zip` 文件。
 
 ### 依赖
 - `zip`：用于处理 ZIP 文件。
